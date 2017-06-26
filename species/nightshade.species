@@ -9,7 +9,7 @@
 
   "nameGen" : [ "/species/florannamegen.config:names", "/species/florannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/floranhurt_male1.ogg", "/sfx/humanoid/floranhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Foliage", "Shirt", "Legwear", "Leaf colour", "Flower colour", "Shirt colour", "Legwear colour", "nightshade", "Personality" ],
+  "charGenTextLabels" : [ "Skin colour", "Foliage", "Shirt", "Legwear", "Leaf colour", "Fruit colour", "Shirt colour", "Legwear colour", "nightshade", "Personality" ],
   "skull" : "/humanoid/floran/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=8af062FF?replace=31a6ffFF=40bf21FF",
   "defaultBlueprints" : {
@@ -106,7 +106,7 @@
        "name" : "male",
       "image" : "/interface/title/plantmaleicon.png",
       "characterImage" : "/interface/title/nightshademale.png",
-      "hair" : [ "1" ],
+      "hair" : [ "1", "pumpkin1" ],
       "shirt" : [ "floranfurnivourchest", "floranhunterchest", "floranleafchest", "floranpeltchest", "floransurvivalistchest" ],
       "pants" : [ "floranfurnivourlegs", "floranhunterlegs", "floranleaflegs", "floranpeltlegs", "floransurvivalistlegs" ],
       "facialHairGroup" : "",
@@ -118,7 +118,7 @@
       "name" : "female",
       "image" : "/interface/title/plantfemaleicon.png",
       "characterImage" : "/interface/title/nightshadefemale.png",
-      "hair" : [ "1" ],
+      "hair" : [ "1", "pumpkin1" ],
       "shirt" : [ "floranfurnivourchest", "floranhunterchest", "floranleafchest", "floranpeltchest", "floransurvivalistchest" ],
       "pants" : [ "floranfurnivourlegs", "floranhunterlegs", "floranleaflegs", "floranpeltlegs", "floransurvivalistlegs" ],
       "facialHairGroup" : "",
