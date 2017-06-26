@@ -1,0 +1,148 @@
+{
+
+  "kind" : "nightshade",
+  "charCreationTooltip" : {
+    "title" : "nightshade",
+    "subTitle" : "Minimalist Race Mod Template",
+    "description" : "Species that utilize existing assets where it can."
+  },
+
+  "nameGen" : [ "/species/florannamegen.config:names", "/species/florannamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/floranhurt_male1.ogg", "/sfx/humanoid/floranhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Skin colour", "Foliage", "Shirt", "Legwear", "Leaf colour", "Flower colour", "Shirt colour", "Legwear colour", "nightshade", "Personality" ],
+  "skull" : "/humanoid/floran/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=8af062FF?replace=31a6ffFF=40bf21FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+// Empty Hands
+      { "item" : "flagfloran" },
+
+// Anvil
+      { "item" : "florantier1head" },
+      { "item" : "florantier1chest" },
+      { "item" : "florantier1pants" },
+      { "item" : "florantier2head" },
+      { "item" : "florantier2chest" },
+      { "item" : "florantier2pants" },
+
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+
+// Anvil2
+      { "item" : "florantier3head" },
+      { "item" : "florantier3chest" },
+      { "item" : "florantier3pants" },
+      { "item" : "florantier4head" },
+      { "item" : "florantier4chest" },
+      { "item" : "florantier4pants" },
+
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+
+// Anvil3
+      { "item" : "florantier5ahead" },
+      { "item" : "florantier5achest" },
+      { "item" : "florantier5apants" },
+      { "item" : "florantier6ahead" },
+      { "item" : "florantier6achest" },
+      { "item" : "florantier6apants" },
+
+      { "item" : "florantier5mhead" },
+      { "item" : "florantier5mchest" },
+      { "item" : "florantier5mpants" },
+      { "item" : "florantier6mhead" },
+      { "item" : "florantier6mchest" },
+      { "item" : "florantier6mpants" },
+
+      { "item" : "florantier5shead" },
+      { "item" : "florantier5schest" },
+      { "item" : "florantier5spants" },
+      { "item" : "florantier6shead" },
+      { "item" : "florantier6schest" },
+      { "item" : "florantier6spants" },
+
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
+// Furniture Table 2
+      { "item" : "floranstoragelocker" },
+      { "item" : "floranshipdoor" },
+      { "item" : "floranshiphatch" },
+
+// Spinning Wheel
+      { "item" : "floranfurnivourchest" },
+      { "item" : "floranfurnivourlegs" },
+      { "item" : "floranhunterchest" },
+      { "item" : "floranhunterlegs" },
+      { "item" : "floranleafchest" },
+      { "item" : "floranleaflegs" },
+      { "item" : "floranpeltchest" },
+      { "item" : "floranpeltlegs" }
+    ]
+  },
+
+//  "altOptionAsFacialMask" : true,
+//  "altColorAsFacialMaskSubColor" : true,
+  "altOptionAsHairColor" : true,
+  "altOptionAsUndyColor" : true,
+
+//  "bodyColorAsFacialMaskSubColor" : true,
+
+//  "hairColorAsBodySubColor" : true,
+//  "headOptionAsFacialhair" : true,
+  "headOptionAsHairColor" : true,
+
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/plantmaleicon.png",
+      "characterImage" : "/interface/title/nightshademale.png",
+      "hair" : [ "1" ],
+      "shirt" : [ "floranfurnivourchest", "floranhunterchest", "floranleafchest", "floranpeltchest", "floransurvivalistchest" ],
+      "pants" : [ "floranfurnivourlegs", "floranhunterlegs", "floranleaflegs", "floranpeltlegs", "floransurvivalistlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/plantfemaleicon.png",
+      "characterImage" : "/interface/title/nightshadefemale.png",
+      "hair" : [ "1" ],
+      "shirt" : [ "floranfurnivourchest", "floranhunterchest", "floranleafchest", "floranpeltchest", "floransurvivalistchest" ],
+      "pants" : [ "floranfurnivourlegs", "floranhunterlegs", "floranleaflegs", "floranpeltlegs", "floransurvivalistlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    //placeholder blue
+    { "ffca8a" : "8ac", "e0975c" : "68a", "a85636" : "468", "6f2919" : "246" },
+    //placeholder brown
+    { "ffca8a" : "ca8", "e0975c" : "a86", "a85636" : "864", "6f2919" : "642" },
+    //placeholder grey
+    { "ffca8a" : "eee", "e0975c" : "ccc", "a85636" : "aaa", "6f2919" : "888" }
+  ],
+  "undyColor" : [
+    { "f7e7b2" : "79b" , "d9c189" : "579", "a38d59" : "357", "735e3a" : "135" },
+    { "f7e7b2" : "b97" , "d9c189" : "975", "a38d59" : "753", "735e3a" : "531" },
+    { "f7e7b2" : "ddd" , "d9c189" : "bbb", "a38d59" : "999", "735e3a" : "777" }
+  ],
+  "hairColor" : [
+    { "f32200" : "579", "dc1f00" : "357", "be1b00" : "135" },
+    { "f32200" : "975", "dc1f00" : "753", "be1b00" : "531" },
+    { "f32200" : "bbb", "dc1f00" : "999", "be1b00" : "777" }
+  ]
+}
