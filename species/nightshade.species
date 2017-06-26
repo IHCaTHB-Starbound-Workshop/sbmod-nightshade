@@ -3,15 +3,15 @@
   "kind" : "nightshade",
   "charCreationTooltip" : {
     "title" : "nightshade",
-    "subTitle" : "Minimalist Race Mod Template",
-    "description" : "Species that utilize existing assets where it can."
+    "subTitle" : "CHNO",
+    "description" : "They share common ancestry with the Florans but were rejected from Floran society for being too weak and fragile to fight. Florans refer to them as 'berrykin' as a form of insult."
   },
 
   "nameGen" : [ "/species/florannamegen.config:names", "/species/florannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/floranhurt_male1.ogg", "/sfx/humanoid/floranhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Foliage", "Shirt", "Legwear", "Leaf colour", "Fruit colour", "Shirt colour", "Legwear colour", "nightshade", "Personality" ],
+  "charGenTextLabels" : [ "Skin colour", "Fruit", "Shirt", "Legwear", "Leaf colour", "Fruit colour", "Shirt colour", "Legwear colour", "NIGHTSHADE", "Personality" ],
   "skull" : "/humanoid/floran/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=8af062FF?replace=31a6ffFF=40bf21FF",
+  "effectDirectives" : "",
   "defaultBlueprints" : {
     "tier1" : [
 
