@@ -2,7 +2,7 @@
   "author" : "IHCaTHB",
   "description" : "",
   "friendlyName" : "",
-  "includes" : [],
+  "includes" : ["MRMTINIT.IHC"],
   "name" : "NIGHTSHADE.IHC",
   "requires" : [],
   "version" : "0.1"
