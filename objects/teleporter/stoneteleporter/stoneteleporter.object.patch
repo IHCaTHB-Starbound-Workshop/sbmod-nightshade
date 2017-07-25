@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "test",
+    "path" : "/floranDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/nightshadeDescription",
+    "from" : "/floranDescription"
+  }
+]

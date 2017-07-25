@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/outOfRangeText/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/outOfRangeText/nightshade",
+    "from" : "/outOfRangeText/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/nothingThereText/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/nothingThereText/nightshade",
+    "from" : "/nothingThereText/floran"
+  }
+]]
