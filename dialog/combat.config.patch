@@ -1,0 +1,71 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/reattack/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/reattack/nightshade",
+    "from" : "/reattack/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/attack/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/nightshade",
+    "from" : "/attack/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/killedTarget/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/killedTarget/nightshade",
+    "from" : "/killedTarget/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/lostTarget/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/lostTarget/nightshade",
+    "from" : "/lostTarget/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/outOfSight/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/outOfSight/nightshade",
+    "from" : "/outOfSight/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/cantReach/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/cantReach/nightshade",
+    "from" : "/cantReach/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/cheerOn/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/cheerOn/nightshade",
+    "from" : "/cheerOn/floran"
+  }
+]]

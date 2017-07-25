@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/accuse/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/accuse/nightshade",
+    "from" : "/accuse/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/alert/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/alert/nightshade",
+    "from" : "/alert/floran"
+  }
+]]

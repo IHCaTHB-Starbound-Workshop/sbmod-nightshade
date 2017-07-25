@@ -1,0 +1,31 @@
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/roleDescription/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/fieldBenefit/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/combatBenefit/floran"
+  }
+]]

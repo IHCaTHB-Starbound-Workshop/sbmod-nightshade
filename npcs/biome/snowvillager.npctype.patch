@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/converse/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/converse/nightshade",
+    "from": "/scriptConfig/dialog/converse/floran"
+  }
+]

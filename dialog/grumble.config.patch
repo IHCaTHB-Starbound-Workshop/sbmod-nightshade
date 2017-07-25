@@ -1,0 +1,51 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/tagCriteria/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/nightshade",
+    "from" : "/tagCriteria/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/enclosedArea/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/nightshade",
+    "from" : "/enclosedArea/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/otherDeed/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/nightshade",
+    "from" : "/otherDeed/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/severe/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/nightshade",
+    "from" : "/severe/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/final/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/nightshade",
+    "from" : "/final/floran"
+  }
+]]

@@ -1,0 +1,21 @@
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/merchant/start/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/merchant/start/nightshade",
+    "from": "/scriptConfig/dialog/merchant/start/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/merchant/end/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/merchant/end/nightshade",
+    "from": "/scriptConfig/dialog/merchant/end/floran"
+  }
+]]

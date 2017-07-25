@@ -1,0 +1,131 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/converse/apex/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/apex/nightshade",
+    "from" : "/converse/apex/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/avian/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/avian/nightshade",
+    "from" : "/converse/avian/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/floran/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/floran/nightshade",
+    "from" : "/converse/floran/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/glitch/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/glitch/nightshade",
+    "from" : "/converse/glitch/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/human/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/human/nightshade",
+    "from" : "/converse/human/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/hylotl/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/hylotl/nightshade",
+    "from" : "/converse/hylotl/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/novakid/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/novakid/nightshade",
+    "from" : "/converse/novakid/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/default/nightshade",
+    "from" : "/converse/default/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/nightshade",
+    "from" : "/converse/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/flee/helpme/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/helpme/nightshade",
+    "from" : "/flee/helpme/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/flee/helpthem/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/helpthem/nightshade",
+    "from" : "/flee/helpthem/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/flee/encourage/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/encourage/nightshade",
+    "from" : "/flee/encourage/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/flee/safe/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/safe/nightshade",
+    "from" : "/flee/safe/floran"
+  }
+]]

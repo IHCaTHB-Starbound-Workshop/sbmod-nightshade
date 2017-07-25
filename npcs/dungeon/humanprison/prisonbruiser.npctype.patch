@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/attack/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/attack/nightshade",
+    "from": "/scriptConfig/dialog/attack/floran"
+  }
+]

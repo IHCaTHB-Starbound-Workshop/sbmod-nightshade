@@ -1,0 +1,21 @@
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/roleDescription/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/converse/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/converse/nightshade",
+    "from": "/scriptConfig/dialog/converse/floran"
+  }
+]]

@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "test",
+    "path" : "/hail/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/hail/nightshade",
+    "from" : "/hail/floran"
+  }
+]

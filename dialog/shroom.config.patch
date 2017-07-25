@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/hail/floran/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/hail/floran/nightshade",
+    "from" : "/hail/floran/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/start/default/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/start/default/nightshade",
+    "from" : "/start/default/floran"
+  }
+]]

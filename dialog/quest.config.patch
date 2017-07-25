@@ -1,0 +1,291 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/share_secret/pleaseTakeReply/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/share_secret/pleaseTakeReply/nightshade",
+    "from" : "/share_secret/pleaseTakeReply/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/intimidate/intimidated/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/intimidate/intimidated/nightshade",
+    "from" : "/intimidate/intimidated/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/intimidate/notIntimidated/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/intimidate/notIntimidated/nightshade",
+    "from" : "/intimidate/notIntimidated/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/bribe/giftAccepted/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/bribe/giftAccepted/nightshade",
+    "from" : "/bribe/giftAccepted/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/bribe/giftAccepted2/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/bribe/giftAccepted2/nightshade",
+    "from" : "/bribe/giftAccepted2/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/bribe/requestAdditionToHouse/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/bribe/requestAdditionToHouse/nightshade",
+    "from" : "/bribe/requestAdditionToHouse/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/gift/giftAccepted/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/gift/giftAccepted/nightshade",
+    "from" : "/gift/giftAccepted/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/gift/giftAccepted2/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/gift/giftAccepted2/nightshade",
+    "from" : "/gift/giftAccepted2/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/gift/requestAdditionToHouse/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/gift/requestAdditionToHouse/nightshade",
+    "from" : "/gift/requestAdditionToHouse/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/return_stolen/objectTaken/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/return_stolen/objectTaken/nightshade",
+    "from" : "/return_stolen/objectTaken/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/collect_fine/fineCollected/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/collect_fine/fineCollected/nightshade",
+    "from" : "/collect_fine/fineCollected/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/collect_gift/giftProvided/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/collect_gift/giftProvided/nightshade",
+    "from" : "/collect_gift/giftProvided/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/request_craft/giftProvided/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/request_craft/giftProvided/nightshade",
+    "from" : "/request_craft/giftProvided/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/borrow/giftProvided/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/borrow/giftProvided/nightshade",
+    "from" : "/borrow/giftProvided/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/extort/giftProvided/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/extort/giftProvided/nightshade",
+    "from" : "/extort/giftProvided/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/hat/crafting/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/hat/crafting/nightshade",
+    "from" : "/hat/crafting/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/hat/crafted/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/hat/crafted/nightshade",
+    "from" : "/hat/crafted/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/helmet/crafting/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/helmet/crafting/nightshade",
+    "from" : "/helmet/crafting/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/helmet/crafted/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/helmet/crafted/nightshade",
+    "from" : "/helmet/crafted/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/new_stock/trade/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/new_stock/trade/nightshade",
+    "from" : "/new_stock/trade/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/kidnapping/kidnappersDead/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/kidnapping/kidnappersDead/nightshade",
+    "from" : "/kidnapping/kidnappersDead/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/kidnapping/followHome/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/kidnapping/followHome/nightshade",
+    "from" : "/kidnapping/followHome/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/escort/found/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/escort/found/nightshade",
+    "from" : "/escort/found/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/barter/trade/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/barter/trade/nightshade",
+    "from" : "/barter/trade/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/escort_trade/collectDelivery/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/escort_trade/collectDelivery/nightshade",
+    "from" : "/escort_trade/collectDelivery/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/escort_trade/provideDelivery/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/escort_trade/provideDelivery/nightshade",
+    "from" : "/escort_trade/provideDelivery/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/kill_npcs/assistantIntro/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/kill_npcs/assistantIntro/nightshade",
+    "from" : "/kill_npcs/assistantIntro/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/kill_npc/surrender/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/kill_npc/surrender/nightshade",
+    "from" : "/kill_npc/surrender/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/kill_npc/betray/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/kill_npc/betray/nightshade",
+    "from" : "/kill_npc/betray/floran"
+  }
+]]

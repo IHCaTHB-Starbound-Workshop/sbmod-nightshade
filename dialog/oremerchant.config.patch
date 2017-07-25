@@ -1,0 +1,121 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/merchantStart/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/merchantStart/nightshade",
+    "from" : "/merchantStart/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/merchantEnd/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/merchantEnd/nightshade",
+    "from" : "/merchantEnd/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/follow/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/follow/nightshade",
+    "from" : "/follow/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/welcome/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/welcome/nightshade",
+    "from" : "/welcome/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tout/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/tout/nightshade",
+    "from" : "/tout/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tagCriteria/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/nightshade",
+    "from" : "/tagCriteria/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/enclosedArea/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/nightshade",
+    "from" : "/enclosedArea/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/otherDeed/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/nightshade",
+    "from" : "/otherDeed/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/severe/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/nightshade",
+    "from" : "/severe/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/final/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/nightshade",
+    "from" : "/final/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/beacon/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/nightshade",
+    "from" : "/beacon/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/rent/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/nightshade",
+    "from" : "/rent/floran"
+  }
+]]

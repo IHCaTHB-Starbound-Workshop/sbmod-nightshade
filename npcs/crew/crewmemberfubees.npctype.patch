@@ -1,0 +1,71 @@
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/offer/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/offer/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/roleDescription/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/combatBenefit/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/respawned/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/respawned/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/unfollow/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/follow/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/follow/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/nightshade",
+    "from": "/scriptConfig/dialog/crewmember/cantreach/floran"
+  }
+]]

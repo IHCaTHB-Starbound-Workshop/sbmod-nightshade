@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/beacon/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/nightshade",
+    "from" : "/beacon/floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/rent/floran"
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/nightshade",
+    "from" : "/rent/floran"
+  }
+]]
