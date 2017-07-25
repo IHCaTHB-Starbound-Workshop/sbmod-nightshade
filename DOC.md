@@ -1,4 +1,4 @@
-# sbmod-
+# sbmod-nightshade
 # documentation
 last updated yyyy-mm-dd for version 0.1
 
@@ -6,3 +6,8 @@ last updated yyyy-mm-dd for version 0.1
 ### item ids
 `item1`
 `item2`
+
+---
+
+@license MIT
+@author IHCaTHB

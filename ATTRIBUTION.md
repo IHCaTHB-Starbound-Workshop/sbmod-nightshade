@@ -1,9 +1,9 @@
-# sbmod-
+# sbmod-nightshade
 # attribution
 
 ## author
 
-IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
+IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart] | patreon: [IHCaTHB]
 
 ## credit
 
@@ -23,6 +23,8 @@ and viewers, like you.
 
 [GitHub](https://github.com/)
 
+http://chbrown.github.io/rfc6902/
+
 
 
 [714236]: http://community.playstarbound.com/members/714236
@@ -31,8 +33,15 @@ and viewers, like you.
 
 [IsaacHart]: https://github.com/IHCaTHB-Starbound-Workshop
 
+[IHCaTHB]: https://www.patreon.com/IHCaTHB
+
 [Chucklefish]: http://www.chucklefish.org
 
 [Starbound]: http://playstarbound.com
 
 [The Starbound official forums modding community]: http://community.playstarbound.com/forums/111
+
+---
+
+@license MIT
+@author IHCaTHB

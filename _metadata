@@ -1,9 +1,12 @@
 {
   "author" : "IHCaTHB",
   "description" : "",
-  "friendlyName" : "",
+  "friendlyName" : "The Nightshade",
   "includes" : ["MRMTINIT.IHC"],
   "name" : "NIGHTSHADE.IHC",
   "requires" : [],
   "version" : "0.1"
 }
+
+// @license MIT
+// @author IHCaTHB
