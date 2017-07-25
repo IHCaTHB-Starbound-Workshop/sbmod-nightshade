@@ -1,0 +1,14 @@
+[
+  {
+    "op" : "add",
+    "path" : "/scriptConfig/list/-",
+    "value" : {
+      "options" : [
+        {
+          "species": [ "nightshade" ],
+          "type": [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+        }
+      ]
+    }
+  }
+]

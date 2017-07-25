@@ -1,0 +1,21 @@
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/merchant/categories/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/merchant/categories/nightshade",
+    "from": "/scriptConfig/merchant/categories/floran"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/items/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/items/nightshade",
+    "from": "/items/floran"
+  }
+]]

@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "/items/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/items/nightshade",
+    "from": "/items/floran"
+  }
+]
