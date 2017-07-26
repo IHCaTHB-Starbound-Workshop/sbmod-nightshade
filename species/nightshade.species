@@ -4,7 +4,7 @@
   "charCreationTooltip" : {
     "title" : "nightshade",
     "subTitle" : "CHNO",
-    "description" : "They share common ancestry with the Florans but were rejected from Floran society for being weak and fragile. Florans refer to them as 'berrykin' as a form of insult."
+    "description" : "This Floran subspecies is not typically accepted in Floran society for being weak and fragile. Florans sometimes refer to them as 'berrykin' as a form of insult."
   },
 
   "nameGen" : [ "/species/florannamegen.config:names", "/species/florannamegen.config:names" ],
