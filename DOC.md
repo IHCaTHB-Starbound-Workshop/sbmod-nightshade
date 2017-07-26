@@ -1,11 +1,10 @@
 # sbmod-nightshade
 # documentation
-last updated yyyy-mm-dd for version 0.1
+last updated 2017-07-26 for version 0.1
 
 ## backend
-### item ids
-`item1`
-`item2`
+### species type
+`nightshade`
 
 ---
 

@@ -1,11 +1,8 @@
 # sbmod-nightshade
 # changelog
 
-### vur
-+ b
-
-### v0.1 yyyy-mm-dd
-+ a
+### v0.1 2017-07-26
++ 95 hairstyles
 
 ---
 
