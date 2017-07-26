@@ -1,6 +1,21 @@
 {
   "author" : "IHCaTHB",
-  "description" : "",
+  "description" : "^#5aa9d6;Play as the Nightshade!^reset;
+
+The Nightshade are a subspecies of the Floran whose heads are fruit! Variations might resemble tomatoes, onions, pumpkins...a pomegranate?
+
+The design was chiefly inspired by the mandragora as styled in the Final Fantasy world of Ivalice.
+
+contains:
+1 playable race
+slightly modified floran sprite
+~95 hair styles
+
+Requires a character extender!
+
+Made using MRMT!
+
+For more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "The Nightshade",
   "includes" : [ "MRMTINIT.IHC" ],
   "name" : "NIGHTSHADE.IHC",
